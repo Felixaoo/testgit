@@ -11,6 +11,7 @@ System.out.println("test 2 branche 2");
 
 System.out.println("coucou");
 System.out.println("haha");
+System.out.println("test 4");
 	}
 
 }
